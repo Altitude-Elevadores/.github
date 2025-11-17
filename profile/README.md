@@ -1,8 +1,11 @@
 <div align="center">
-  <img src="./logo-altitude.png" alt="Altitude Elevadores" width="160" />
-  <h1>Altitude Elevadores</h1>
-  <p>Elevadores residenciais inteligentes que combinam segurança, sofisticação e tecnologia preditiva.</p>
-  <a href="https://altitudeelevadores.com.br">Visite o site</a> • <a href="mailto:contato@altitudeelevadores.com.br">Fale conosco</a>
+
+![Altitude Elevadores](logo-altitude.png?raw=1)
+
+<h1>Altitude Elevadores</h1>
+<p>Elevadores residenciais inteligentes que combinam segurança, sofisticação e tecnologia preditiva.</p>
+<a href="https://altitudeelevadores.com.br">Visite o site</a> • <a href="mailto:contato@altitudeelevadores.com.br">Fale conosco</a>
+
 </div>
 
 ## Quem Somos
