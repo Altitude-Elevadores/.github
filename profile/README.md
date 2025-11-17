@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://altitudeelevadores.com.br/wp-content/uploads/2024/01/logo-altitude.svg" alt="Altitude Elevadores" width="160" />
+  <img src="./logo-altitude.png" alt="Altitude Elevadores" width="160" />
   <h1>Altitude Elevadores</h1>
   <p>Elevadores residenciais inteligentes que combinam segurança, sofisticação e tecnologia preditiva.</p>
   <a href="https://altitudeelevadores.com.br">Visite o site</a> • <a href="mailto:contato@altitudeelevadores.com.br">Fale conosco</a>
